@@ -1,0 +1,563 @@
+order_id,order_date,order_year,order_month,year_month,customer_name,city,region,state,product_name,category,quantity,unit_price,discount_pct,sales_amount,status
+10,2023-01-03,2023,1,2023-01,Priya Singh,Delhi,North,Delhi,Laptop Pro,Electronics,2,65000,0,130000,Pending
+6,2023-01-04,2023,1,2023-01,Ravi Kumar,Kolkata,East,West Bengal,Tablet Plus,Electronics,2,38000,0,76000,Delivered
+12,2023-01-07,2023,1,2023-01,Anita Desai,Pune,West,Maharashtra,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+17,2023-01-07,2023,1,2023-01,Anita Desai,Pune,West,Maharashtra,USB Hub,Accessories,3,900,0,2700,Pending
+1,2023-01-08,2023,1,2023-01,Priya Singh,Delhi,North,Delhi,Laptop Pro,Electronics,3,65000,0,195000,Delivered
+4,2023-01-08,2023,1,2023-01,Vikram Rao,Hyderabad,South,Telangana,Wireless Keyboard,Accessories,5,2500,5,11875,Delivered
+21,2023-01-08,2023,1,2023-01,Sanjay Tiwari,Nagpur,Central,Maharashtra,Speaker Bluetooth,Audio,4,5500,0,22000,Cancelled
+7,2023-01-09,2023,1,2023-01,Priya Singh,Delhi,North,Delhi,Monitor 24inch,Electronics,3,18000,10,48600,Pending
+19,2023-01-09,2023,1,2023-01,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smart Watch,Electronics,4,15000,0,60000,Delivered
+8,2023-01-13,2023,1,2023-01,Deepa Iyer,Kochi,South,Kerala,Webcam HD,Accessories,5,3500,0,17500,Delivered
+14,2023-01-13,2023,1,2023-01,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,2,2500,5,4750,Delivered
+11,2023-01-15,2023,1,2023-01,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,4,28000,0,112000,Delivered
+3,2023-01-17,2023,1,2023-01,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,2,28000,0,56000,Delivered
+2,2023-01-19,2023,1,2023-01,Priya Singh,Delhi,North,Delhi,Hard Disk 1TB,Storage,5,4500,0,22500,Delivered
+9,2023-01-19,2023,1,2023-01,Ravi Kumar,Kolkata,East,West Bengal,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+13,2023-01-21,2023,1,2023-01,Deepa Iyer,Kochi,South,Kerala,Smart Watch,Electronics,1,15000,10,13500,Delivered
+18,2023-01-21,2023,1,2023-01,Kavita Reddy,Lucknow,North,Uttar Pradesh,Smart Watch,Electronics,3,15000,0,45000,Delivered
+15,2023-01-22,2023,1,2023-01,Sanjay Tiwari,Nagpur,Central,Maharashtra,Hard Disk 1TB,Storage,5,4500,0,22500,Delivered
+5,2023-01-23,2023,1,2023-01,Ravi Kumar,Kolkata,East,West Bengal,Laptop Bag,Accessories,1,1800,0,1800,Delivered
+20,2023-01-24,2023,1,2023-01,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,5,8500,0,42500,Delivered
+22,2023-01-25,2023,1,2023-01,Amit Verma,Chennai,South,Tamil Nadu,Headphones Pro,Audio,4,8500,0,34000,Delivered
+16,2023-01-27,2023,1,2023-01,Nikhil Gupta,Chandigarh,North,Punjab,Laptop Bag,Accessories,1,1800,0,1800,Delivered
+30,2023-01-31,2023,1,2023-01,Nikhil Gupta,Chandigarh,North,Punjab,Tablet Plus,Electronics,5,38000,10,171000,Delivered
+28,2023-02-03,2023,2,2023-02,Ravi Kumar,Kolkata,East,West Bengal,Headphones Pro,Audio,2,8500,10,15300,Pending
+37,2023-02-03,2023,2,2023-02,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,5,15000,5,71250,Delivered
+34,2023-02-05,2023,2,2023-02,Amit Verma,Chennai,South,Tamil Nadu,Tablet Plus,Electronics,4,38000,10,136800,Delivered
+29,2023-02-06,2023,2,2023-02,Ravi Kumar,Kolkata,East,West Bengal,Gaming Mouse,Accessories,5,2200,10,9900,Delivered
+32,2023-02-07,2023,2,2023-02,Nikhil Gupta,Chandigarh,North,Punjab,Optical Mouse,Accessories,2,1200,0,2400,Pending
+26,2023-02-10,2023,2,2023-02,Sanjay Tiwari,Nagpur,Central,Maharashtra,Headphones Pro,Audio,3,8500,15,21675,Delivered
+23,2023-02-13,2023,2,2023-02,Amit Verma,Chennai,South,Tamil Nadu,Hard Disk 1TB,Storage,2,4500,15,7650,Delivered
+24,2023-02-16,2023,2,2023-02,Suresh Nair,Bangalore,South,Karnataka,USB Hub,Accessories,5,900,5,4275,Delivered
+35,2023-02-17,2023,2,2023-02,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+36,2023-02-21,2023,2,2023-02,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,3,2500,5,7125,Delivered
+25,2023-02-23,2023,2,2023-02,Vikram Rao,Hyderabad,South,Telangana,Gaming Mouse,Accessories,1,2200,15,1870,Delivered
+27,2023-02-23,2023,2,2023-02,Suresh Nair,Bangalore,South,Karnataka,Tablet Plus,Electronics,4,38000,0,152000,Pending
+33,2023-02-24,2023,2,2023-02,Priya Singh,Delhi,North,Delhi,Smartphone X,Electronics,4,28000,0,112000,Delivered
+31,2023-02-28,2023,2,2023-02,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,1,65000,0,65000,Cancelled
+51,2023-03-02,2023,3,2023-03,Sanjay Tiwari,Nagpur,Central,Maharashtra,Laptop Pro,Electronics,2,65000,5,123500,Cancelled
+44,2023-03-03,2023,3,2023-03,Suresh Nair,Bangalore,South,Karnataka,USB Hub,Accessories,4,900,15,3060,Delivered
+55,2023-03-03,2023,3,2023-03,Rahul Sharma,Mumbai,West,Maharashtra,Pen Drive 64GB,Storage,3,800,0,2400,Delivered
+56,2023-03-03,2023,3,2023-03,Vikram Rao,Hyderabad,South,Telangana,Smart Watch,Electronics,5,15000,0,75000,Cancelled
+39,2023-03-04,2023,3,2023-03,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,1,28000,0,28000,Pending
+48,2023-03-05,2023,3,2023-03,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smartphone X,Electronics,4,28000,10,100800,Delivered
+46,2023-03-08,2023,3,2023-03,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,2,28000,0,56000,Delivered
+50,2023-03-08,2023,3,2023-03,Amit Verma,Chennai,South,Tamil Nadu,USB Hub,Accessories,4,900,5,3420,Pending
+38,2023-03-09,2023,3,2023-03,Anita Desai,Pune,West,Maharashtra,Laptop Pro,Electronics,5,65000,10,292500,Delivered
+40,2023-03-09,2023,3,2023-03,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Monitor 24inch,Electronics,1,18000,10,16200,Delivered
+52,2023-03-15,2023,3,2023-03,Ravi Kumar,Kolkata,East,West Bengal,Smart Watch,Electronics,4,15000,0,60000,Delivered
+47,2023-03-16,2023,3,2023-03,Amit Verma,Chennai,South,Tamil Nadu,USB Hub,Accessories,2,900,0,1800,Delivered
+54,2023-03-20,2023,3,2023-03,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,2,1200,0,2400,Delivered
+43,2023-03-23,2023,3,2023-03,Suresh Nair,Bangalore,South,Karnataka,Wireless Keyboard,Accessories,1,2500,0,2500,Delivered
+53,2023-03-24,2023,3,2023-03,Deepa Iyer,Kochi,South,Kerala,Laptop Bag,Accessories,5,1800,15,7650,Delivered
+45,2023-03-25,2023,3,2023-03,Arjun Mehta,Surat,West,Gujarat,Smartphone X,Electronics,1,28000,5,26600,Delivered
+41,2023-03-25,2023,3,2023-03,Meena Joshi,Jaipur,North,Rajasthan,Wireless Keyboard,Accessories,5,2500,0,12500,Pending
+49,2023-03-26,2023,3,2023-03,Vikram Rao,Hyderabad,South,Telangana,Gaming Mouse,Accessories,1,2200,0,2200,Pending
+42,2023-03-27,2023,3,2023-03,Kavita Reddy,Lucknow,North,Uttar Pradesh,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+74,2023-04-02,2023,4,2023-04,Sanjay Tiwari,Nagpur,Central,Maharashtra,Pen Drive 64GB,Storage,2,800,10,1440,Pending
+71,2023-04-02,2023,4,2023-04,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,4,28000,0,112000,Delivered
+57,2023-04-03,2023,4,2023-04,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Tablet Plus,Electronics,1,38000,10,34200,Delivered
+73,2023-04-04,2023,4,2023-04,Deepa Iyer,Kochi,South,Kerala,USB Hub,Accessories,5,900,0,4500,Delivered
+75,2023-04-05,2023,4,2023-04,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,2,8500,5,16150,Delivered
+63,2023-04-07,2023,4,2023-04,Kavita Reddy,Lucknow,North,Uttar Pradesh,Smartphone X,Electronics,1,28000,10,25200,Delivered
+58,2023-04-08,2023,4,2023-04,Sneha Patel,Ahmedabad,West,Gujarat,USB Hub,Accessories,1,900,10,810,Delivered
+67,2023-04-09,2023,4,2023-04,Ravi Kumar,Kolkata,East,West Bengal,Smart Watch,Electronics,1,15000,0,15000,Delivered
+68,2023-04-09,2023,4,2023-04,Priya Singh,Delhi,North,Delhi,Pen Drive 64GB,Storage,5,800,0,4000,Delivered
+62,2023-04-15,2023,4,2023-04,Meena Joshi,Jaipur,North,Rajasthan,Monitor 24inch,Electronics,1,18000,0,18000,Delivered
+59,2023-04-22,2023,4,2023-04,Rahul Sharma,Mumbai,West,Maharashtra,Speaker Bluetooth,Audio,1,5500,5,5225,Delivered
+60,2023-04-22,2023,4,2023-04,Vikram Rao,Hyderabad,South,Telangana,Monitor 24inch,Electronics,3,18000,0,54000,Delivered
+61,2023-04-22,2023,4,2023-04,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,4,1200,0,4800,Delivered
+66,2023-04-22,2023,4,2023-04,Nikhil Gupta,Chandigarh,North,Punjab,Hard Disk 1TB,Storage,5,4500,0,22500,Pending
+69,2023-04-22,2023,4,2023-04,Sneha Patel,Ahmedabad,West,Gujarat,Pen Drive 64GB,Storage,3,800,0,2400,Delivered
+65,2023-04-23,2023,4,2023-04,Ravi Kumar,Kolkata,East,West Bengal,Tablet Plus,Electronics,4,38000,10,136800,Delivered
+72,2023-04-24,2023,4,2023-04,Nikhil Gupta,Chandigarh,North,Punjab,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+64,2023-04-29,2023,4,2023-04,Amit Verma,Chennai,South,Tamil Nadu,Smart Watch,Electronics,3,15000,0,45000,Delivered
+70,2023-04-29,2023,4,2023-04,Ravi Kumar,Kolkata,East,West Bengal,Headphones Pro,Audio,4,8500,0,34000,Pending
+79,2023-05-01,2023,5,2023-05,Nikhil Gupta,Chandigarh,North,Punjab,Laptop Bag,Accessories,2,1800,5,3420,Delivered
+87,2023-05-02,2023,5,2023-05,Ravi Kumar,Kolkata,East,West Bengal,Tablet Plus,Electronics,5,38000,0,190000,Delivered
+99,2023-05-03,2023,5,2023-05,Nikhil Gupta,Chandigarh,North,Punjab,Pen Drive 64GB,Storage,2,800,15,1360,Delivered
+100,2023-05-03,2023,5,2023-05,Arjun Mehta,Surat,West,Gujarat,Hard Disk 1TB,Storage,5,4500,0,22500,Pending
+86,2023-05-04,2023,5,2023-05,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Headphones Pro,Audio,3,8500,0,25500,Pending
+81,2023-05-04,2023,5,2023-05,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,2,1200,15,2040,Delivered
+94,2023-05-05,2023,5,2023-05,Anita Desai,Pune,West,Maharashtra,USB Hub,Accessories,3,900,10,2430,Delivered
+76,2023-05-07,2023,5,2023-05,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smart Watch,Electronics,1,15000,0,15000,Delivered
+82,2023-05-07,2023,5,2023-05,Rahul Sharma,Mumbai,West,Maharashtra,Gaming Mouse,Accessories,4,2200,0,8800,Pending
+83,2023-05-08,2023,5,2023-05,Meena Joshi,Jaipur,North,Rajasthan,Monitor 24inch,Electronics,3,18000,0,54000,Delivered
+89,2023-05-09,2023,5,2023-05,Priya Singh,Delhi,North,Delhi,USB Hub,Accessories,5,900,0,4500,Delivered
+93,2023-05-10,2023,5,2023-05,Priya Singh,Delhi,North,Delhi,Pen Drive 64GB,Storage,3,800,10,2160,Delivered
+96,2023-05-10,2023,5,2023-05,Vikram Rao,Hyderabad,South,Telangana,Gaming Mouse,Accessories,1,2200,0,2200,Delivered
+92,2023-05-11,2023,5,2023-05,Arjun Mehta,Surat,West,Gujarat,Smart Watch,Electronics,3,15000,10,40500,Delivered
+97,2023-05-11,2023,5,2023-05,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,5,5500,15,23375,Delivered
+91,2023-05-14,2023,5,2023-05,Deepa Iyer,Kochi,South,Kerala,Pen Drive 64GB,Storage,2,800,0,1600,Delivered
+98,2023-05-16,2023,5,2023-05,Meena Joshi,Jaipur,North,Rajasthan,Hard Disk 1TB,Storage,2,4500,10,8100,Delivered
+85,2023-05-17,2023,5,2023-05,Nikhil Gupta,Chandigarh,North,Punjab,Optical Mouse,Accessories,3,1200,15,3060,Delivered
+95,2023-05-19,2023,5,2023-05,Arjun Mehta,Surat,West,Gujarat,USB Hub,Accessories,2,900,10,1620,Delivered
+88,2023-05-20,2023,5,2023-05,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,3,18000,5,51300,Cancelled
+90,2023-05-22,2023,5,2023-05,Suresh Nair,Bangalore,South,Karnataka,Laptop Pro,Electronics,5,65000,10,292500,Delivered
+78,2023-05-28,2023,5,2023-05,Kavita Reddy,Lucknow,North,Uttar Pradesh,Pen Drive 64GB,Storage,2,800,0,1600,Delivered
+84,2023-05-28,2023,5,2023-05,Sneha Patel,Ahmedabad,West,Gujarat,USB Hub,Accessories,3,900,0,2700,Delivered
+80,2023-05-28,2023,5,2023-05,Sanjay Tiwari,Nagpur,Central,Maharashtra,Monitor 24inch,Electronics,4,18000,15,61200,Delivered
+77,2023-05-29,2023,5,2023-05,Arjun Mehta,Surat,West,Gujarat,Smartphone X,Electronics,3,28000,10,75600,Pending
+117,2023-05-31,2023,5,2023-05,Sanjay Tiwari,Nagpur,Central,Maharashtra,Laptop Bag,Accessories,5,1800,15,7650,Pending
+118,2023-05-31,2023,5,2023-05,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,4,5500,5,20900,Pending
+101,2023-06-04,2023,6,2023-06,Arjun Mehta,Surat,West,Gujarat,Optical Mouse,Accessories,2,1200,0,2400,Delivered
+122,2023-06-04,2023,6,2023-06,Nikhil Gupta,Chandigarh,North,Punjab,USB Hub,Accessories,2,900,5,1710,Cancelled
+105,2023-06-07,2023,6,2023-06,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,1,2200,5,2090,Delivered
+111,2023-06-08,2023,6,2023-06,Ravi Kumar,Kolkata,East,West Bengal,Laptop Bag,Accessories,2,1800,15,3060,Delivered
+121,2023-06-10,2023,6,2023-06,Suresh Nair,Bangalore,South,Karnataka,Webcam HD,Accessories,1,3500,5,3325,Delivered
+113,2023-06-10,2023,6,2023-06,Ravi Kumar,Kolkata,East,West Bengal,Wireless Keyboard,Accessories,3,2500,0,7500,Pending
+114,2023-06-12,2023,6,2023-06,Priya Singh,Delhi,North,Delhi,Tablet Plus,Electronics,2,38000,0,76000,Delivered
+115,2023-06-13,2023,6,2023-06,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,1,2500,5,2375,Delivered
+112,2023-06-14,2023,6,2023-06,Vikram Rao,Hyderabad,South,Telangana,Webcam HD,Accessories,2,3500,0,7000,Delivered
+102,2023-06-14,2023,6,2023-06,Sneha Patel,Ahmedabad,West,Gujarat,Webcam HD,Accessories,5,3500,0,17500,Delivered
+120,2023-06-15,2023,6,2023-06,Vikram Rao,Hyderabad,South,Telangana,Laptop Bag,Accessories,5,1800,0,9000,Delivered
+106,2023-06-17,2023,6,2023-06,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,4,8500,0,34000,Delivered
+119,2023-06-17,2023,6,2023-06,Ravi Kumar,Kolkata,East,West Bengal,Laptop Bag,Accessories,4,1800,5,6840,Delivered
+123,2023-06-18,2023,6,2023-06,Vikram Rao,Hyderabad,South,Telangana,Laptop Pro,Electronics,4,65000,10,234000,Delivered
+104,2023-06-22,2023,6,2023-06,Suresh Nair,Bangalore,South,Karnataka,Wireless Keyboard,Accessories,2,2500,15,4250,Delivered
+103,2023-06-22,2023,6,2023-06,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,2,5500,15,9350,Delivered
+108,2023-06-24,2023,6,2023-06,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,5,8500,0,42500,Pending
+107,2023-06-25,2023,6,2023-06,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,4,28000,0,112000,Delivered
+109,2023-06-26,2023,6,2023-06,Kavita Reddy,Lucknow,North,Uttar Pradesh,Gaming Mouse,Accessories,5,2200,5,10450,Pending
+116,2023-06-26,2023,6,2023-06,Meena Joshi,Jaipur,North,Rajasthan,USB Hub,Accessories,1,900,0,900,Delivered
+110,2023-06-27,2023,6,2023-06,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,2,15000,15,25500,Delivered
+132,2023-07-03,2023,7,2023-07,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,2,2200,0,4400,Delivered
+129,2023-07-04,2023,7,2023-07,Rahul Sharma,Mumbai,West,Maharashtra,Speaker Bluetooth,Audio,2,5500,0,11000,Delivered
+139,2023-07-04,2023,7,2023-07,Arjun Mehta,Surat,West,Gujarat,Smart Watch,Electronics,4,15000,15,51000,Delivered
+124,2023-07-05,2023,7,2023-07,Arjun Mehta,Surat,West,Gujarat,USB Hub,Accessories,2,900,5,1710,Delivered
+128,2023-07-07,2023,7,2023-07,Priya Singh,Delhi,North,Delhi,Laptop Bag,Accessories,1,1800,0,1800,Delivered
+126,2023-07-08,2023,7,2023-07,Sanjay Tiwari,Nagpur,Central,Maharashtra,USB Hub,Accessories,3,900,5,2565,Pending
+125,2023-07-10,2023,7,2023-07,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,2,18000,5,34200,Delivered
+137,2023-07-10,2023,7,2023-07,Anita Desai,Pune,West,Maharashtra,Smartphone X,Electronics,5,28000,15,119000,Delivered
+127,2023-07-11,2023,7,2023-07,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,5,65000,0,325000,Delivered
+133,2023-07-12,2023,7,2023-07,Sanjay Tiwari,Nagpur,Central,Maharashtra,Optical Mouse,Accessories,5,1200,15,5100,Delivered
+138,2023-07-13,2023,7,2023-07,Suresh Nair,Bangalore,South,Karnataka,Gaming Mouse,Accessories,4,2200,0,8800,Cancelled
+136,2023-07-17,2023,7,2023-07,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+135,2023-07-19,2023,7,2023-07,Sneha Patel,Ahmedabad,West,Gujarat,Smartphone X,Electronics,3,28000,15,71400,Pending
+134,2023-07-22,2023,7,2023-07,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,1,2500,10,2250,Pending
+130,2023-07-22,2023,7,2023-07,Priya Singh,Delhi,North,Delhi,Speaker Bluetooth,Audio,2,5500,5,10450,Delivered
+131,2023-07-23,2023,7,2023-07,Anita Desai,Pune,West,Maharashtra,Tablet Plus,Electronics,5,38000,10,171000,Delivered
+140,2023-07-25,2023,7,2023-07,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,3,8500,10,22950,Pending
+141,2023-07-26,2023,7,2023-07,Nikhil Gupta,Chandigarh,North,Punjab,Webcam HD,Accessories,4,3500,5,13300,Delivered
+146,2023-07-30,2023,7,2023-07,Deepa Iyer,Kochi,South,Kerala,Smart Watch,Electronics,3,15000,10,40500,Delivered
+156,2023-07-30,2023,7,2023-07,Sneha Patel,Ahmedabad,West,Gujarat,Monitor 24inch,Electronics,2,18000,0,36000,Delivered
+152,2023-08-02,2023,8,2023-08,Ravi Kumar,Kolkata,East,West Bengal,Optical Mouse,Accessories,3,1200,0,3600,Delivered
+153,2023-08-04,2023,8,2023-08,Anita Desai,Pune,West,Maharashtra,Smartphone X,Electronics,5,28000,15,119000,Delivered
+144,2023-08-04,2023,8,2023-08,Anita Desai,Pune,West,Maharashtra,Laptop Pro,Electronics,4,65000,0,260000,Delivered
+149,2023-08-06,2023,8,2023-08,Nikhil Gupta,Chandigarh,North,Punjab,Laptop Pro,Electronics,1,65000,0,65000,Delivered
+142,2023-08-07,2023,8,2023-08,Anita Desai,Pune,West,Maharashtra,Gaming Mouse,Accessories,2,2200,0,4400,Pending
+145,2023-08-07,2023,8,2023-08,Anita Desai,Pune,West,Maharashtra,Laptop Bag,Accessories,3,1800,0,5400,Pending
+159,2023-08-09,2023,8,2023-08,Ravi Kumar,Kolkata,East,West Bengal,Webcam HD,Accessories,4,3500,5,13300,Delivered
+151,2023-08-10,2023,8,2023-08,Anita Desai,Pune,West,Maharashtra,USB Hub,Accessories,5,900,0,4500,Delivered
+147,2023-08-12,2023,8,2023-08,Sneha Patel,Ahmedabad,West,Gujarat,Smartphone X,Electronics,2,28000,15,47600,Delivered
+150,2023-08-14,2023,8,2023-08,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,5,1200,0,6000,Delivered
+157,2023-08-16,2023,8,2023-08,Amit Verma,Chennai,South,Tamil Nadu,Optical Mouse,Accessories,1,1200,0,1200,Delivered
+154,2023-08-17,2023,8,2023-08,Deepa Iyer,Kochi,South,Kerala,Webcam HD,Accessories,3,3500,15,8925,Cancelled
+143,2023-08-18,2023,8,2023-08,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,4,1800,10,6480,Delivered
+148,2023-08-21,2023,8,2023-08,Nikhil Gupta,Chandigarh,North,Punjab,Wireless Keyboard,Accessories,4,2500,15,8500,Delivered
+155,2023-08-25,2023,8,2023-08,Vikram Rao,Hyderabad,South,Telangana,Speaker Bluetooth,Audio,3,5500,0,16500,Delivered
+160,2023-08-25,2023,8,2023-08,Rahul Sharma,Mumbai,West,Maharashtra,Optical Mouse,Accessories,4,1200,0,4800,Delivered
+158,2023-08-26,2023,8,2023-08,Amit Verma,Chennai,South,Tamil Nadu,Hard Disk 1TB,Storage,4,4500,0,18000,Delivered
+178,2023-08-30,2023,8,2023-08,Kavita Reddy,Lucknow,North,Uttar Pradesh,Laptop Pro,Electronics,3,65000,10,175500,Delivered
+165,2023-08-30,2023,8,2023-08,Suresh Nair,Bangalore,South,Karnataka,Optical Mouse,Accessories,5,1200,10,5400,Delivered
+183,2023-08-30,2023,8,2023-08,Ravi Kumar,Kolkata,East,West Bengal,Hard Disk 1TB,Storage,4,4500,10,16200,Delivered
+172,2023-08-31,2023,8,2023-08,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+171,2023-09-01,2023,9,2023-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Hard Disk 1TB,Storage,2,4500,5,8550,Delivered
+161,2023-09-02,2023,9,2023-09,Priya Singh,Delhi,North,Delhi,Speaker Bluetooth,Audio,1,5500,0,5500,Pending
+166,2023-09-04,2023,9,2023-09,Deepa Iyer,Kochi,South,Kerala,Smartphone X,Electronics,2,28000,15,47600,Delivered
+169,2023-09-07,2023,9,2023-09,Rahul Sharma,Mumbai,West,Maharashtra,Wireless Keyboard,Accessories,3,2500,15,6375,Delivered
+176,2023-09-08,2023,9,2023-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Laptop Pro,Electronics,4,65000,15,221000,Delivered
+181,2023-09-08,2023,9,2023-09,Priya Singh,Delhi,North,Delhi,Webcam HD,Accessories,3,3500,5,9975,Delivered
+182,2023-09-11,2023,9,2023-09,Priya Singh,Delhi,North,Delhi,Gaming Mouse,Accessories,2,2200,0,4400,Delivered
+179,2023-09-12,2023,9,2023-09,Amit Verma,Chennai,South,Tamil Nadu,Webcam HD,Accessories,5,3500,15,14875,Pending
+175,2023-09-13,2023,9,2023-09,Suresh Nair,Bangalore,South,Karnataka,Optical Mouse,Accessories,5,1200,10,5400,Delivered
+162,2023-09-15,2023,9,2023-09,Ravi Kumar,Kolkata,East,West Bengal,Smartphone X,Electronics,2,28000,0,56000,Delivered
+167,2023-09-15,2023,9,2023-09,Priya Singh,Delhi,North,Delhi,Tablet Plus,Electronics,2,38000,0,76000,Delivered
+168,2023-09-17,2023,9,2023-09,Rahul Sharma,Mumbai,West,Maharashtra,USB Hub,Accessories,4,900,15,3060,Delivered
+174,2023-09-20,2023,9,2023-09,Ravi Kumar,Kolkata,East,West Bengal,Webcam HD,Accessories,1,3500,5,3325,Delivered
+163,2023-09-22,2023,9,2023-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Speaker Bluetooth,Audio,5,5500,0,27500,Delivered
+184,2023-09-22,2023,9,2023-09,Anita Desai,Pune,West,Maharashtra,Optical Mouse,Accessories,3,1200,0,3600,Delivered
+170,2023-09-23,2023,9,2023-09,Meena Joshi,Jaipur,North,Rajasthan,Smartphone X,Electronics,2,28000,0,56000,Delivered
+177,2023-09-24,2023,9,2023-09,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,2,28000,15,47600,Pending
+180,2023-09-24,2023,9,2023-09,Amit Verma,Chennai,South,Tamil Nadu,Speaker Bluetooth,Audio,4,5500,15,18700,Delivered
+173,2023-09-24,2023,9,2023-09,Nikhil Gupta,Chandigarh,North,Punjab,Optical Mouse,Accessories,5,1200,15,5100,Delivered
+164,2023-09-25,2023,9,2023-09,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,4,15000,0,60000,Delivered
+185,2023-09-25,2023,9,2023-09,Vikram Rao,Hyderabad,South,Telangana,Gaming Mouse,Accessories,1,2200,15,1870,Delivered
+203,2023-10-01,2023,10,2023-10,Kavita Reddy,Lucknow,North,Uttar Pradesh,Monitor 24inch,Electronics,1,18000,5,17100,Delivered
+202,2023-10-02,2023,10,2023-10,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,4,38000,0,152000,Delivered
+189,2023-10-03,2023,10,2023-10,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,2,5500,15,9350,Delivered
+210,2023-10-03,2023,10,2023-10,Priya Singh,Delhi,North,Delhi,Laptop Bag,Accessories,1,1800,5,1710,Delivered
+190,2023-10-05,2023,10,2023-10,Rahul Sharma,Mumbai,West,Maharashtra,Headphones Pro,Audio,4,8500,0,34000,Cancelled
+199,2023-10-05,2023,10,2023-10,Anita Desai,Pune,West,Maharashtra,Gaming Mouse,Accessories,2,2200,15,3740,Delivered
+187,2023-10-06,2023,10,2023-10,Arjun Mehta,Surat,West,Gujarat,Webcam HD,Accessories,1,3500,0,3500,Delivered
+200,2023-10-08,2023,10,2023-10,Sneha Patel,Ahmedabad,West,Gujarat,Gaming Mouse,Accessories,4,2200,0,8800,Delivered
+205,2023-10-08,2023,10,2023-10,Amit Verma,Chennai,South,Tamil Nadu,Smartphone X,Electronics,4,28000,0,112000,Delivered
+195,2023-10-08,2023,10,2023-10,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,3,28000,5,79800,Pending
+198,2023-10-10,2023,10,2023-10,Anita Desai,Pune,West,Maharashtra,Monitor 24inch,Electronics,5,18000,10,81000,Delivered
+197,2023-10-12,2023,10,2023-10,Kavita Reddy,Lucknow,North,Uttar Pradesh,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+193,2023-10-12,2023,10,2023-10,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Webcam HD,Accessories,4,3500,0,14000,Delivered
+188,2023-10-13,2023,10,2023-10,Sanjay Tiwari,Nagpur,Central,Maharashtra,Optical Mouse,Accessories,4,1200,15,4080,Delivered
+208,2023-10-17,2023,10,2023-10,Meena Joshi,Jaipur,North,Rajasthan,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+186,2023-10-17,2023,10,2023-10,Rahul Sharma,Mumbai,West,Maharashtra,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+191,2023-10-18,2023,10,2023-10,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smartphone X,Electronics,4,28000,0,112000,Pending
+201,2023-10-19,2023,10,2023-10,Deepa Iyer,Kochi,South,Kerala,Smart Watch,Electronics,4,15000,5,57000,Delivered
+192,2023-10-20,2023,10,2023-10,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,3,15000,10,40500,Delivered
+207,2023-10-20,2023,10,2023-10,Vikram Rao,Hyderabad,South,Telangana,USB Hub,Accessories,3,900,15,2295,Pending
+196,2023-10-21,2023,10,2023-10,Vikram Rao,Hyderabad,South,Telangana,Optical Mouse,Accessories,1,1200,0,1200,Delivered
+194,2023-10-21,2023,10,2023-10,Suresh Nair,Bangalore,South,Karnataka,Wireless Keyboard,Accessories,5,2500,10,11250,Pending
+209,2023-10-21,2023,10,2023-10,Arjun Mehta,Surat,West,Gujarat,Hard Disk 1TB,Storage,3,4500,0,13500,Delivered
+211,2023-10-23,2023,10,2023-10,Sanjay Tiwari,Nagpur,Central,Maharashtra,Laptop Pro,Electronics,1,65000,0,65000,Delivered
+204,2023-10-25,2023,10,2023-10,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,2,65000,5,123500,Delivered
+206,2023-10-25,2023,10,2023-10,Suresh Nair,Bangalore,South,Karnataka,Hard Disk 1TB,Storage,1,4500,0,4500,Delivered
+221,2023-10-28,2023,10,2023-10,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Hard Disk 1TB,Storage,4,4500,0,18000,Delivered
+235,2023-10-28,2023,10,2023-10,Anita Desai,Pune,West,Maharashtra,Smartphone X,Electronics,2,28000,5,53200,Delivered
+226,2023-10-29,2023,10,2023-10,Arjun Mehta,Surat,West,Gujarat,Laptop Pro,Electronics,3,65000,5,185250,Delivered
+219,2023-10-31,2023,10,2023-10,Ravi Kumar,Kolkata,East,West Bengal,Wireless Keyboard,Accessories,4,2500,5,9500,Delivered
+225,2023-10-31,2023,10,2023-10,Deepa Iyer,Kochi,South,Kerala,Laptop Bag,Accessories,2,1800,15,3060,Pending
+233,2023-10-31,2023,10,2023-10,Suresh Nair,Bangalore,South,Karnataka,Laptop Pro,Electronics,3,65000,10,175500,Delivered
+238,2023-10-31,2023,10,2023-10,Rahul Sharma,Mumbai,West,Maharashtra,Laptop Pro,Electronics,3,65000,5,185250,Delivered
+213,2023-11-02,2023,11,2023-11,Arjun Mehta,Surat,West,Gujarat,Laptop Bag,Accessories,2,1800,0,3600,Delivered
+214,2023-11-04,2023,11,2023-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,USB Hub,Accessories,5,900,15,3825,Delivered
+218,2023-11-05,2023,11,2023-11,Ravi Kumar,Kolkata,East,West Bengal,Hard Disk 1TB,Storage,4,4500,15,15300,Delivered
+224,2023-11-05,2023,11,2023-11,Sneha Patel,Ahmedabad,West,Gujarat,Hard Disk 1TB,Storage,2,4500,10,8100,Delivered
+229,2023-11-05,2023,11,2023-11,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,3,8500,0,25500,Pending
+227,2023-11-07,2023,11,2023-11,Deepa Iyer,Kochi,South,Kerala,Tablet Plus,Electronics,1,38000,0,38000,Delivered
+232,2023-11-08,2023,11,2023-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Hard Disk 1TB,Storage,4,4500,10,16200,Delivered
+217,2023-11-08,2023,11,2023-11,Vikram Rao,Hyderabad,South,Telangana,Tablet Plus,Electronics,1,38000,5,36100,Cancelled
+234,2023-11-09,2023,11,2023-11,Arjun Mehta,Surat,West,Gujarat,Pen Drive 64GB,Storage,3,800,10,2160,Pending
+237,2023-11-10,2023,11,2023-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Webcam HD,Accessories,3,3500,15,8925,Delivered
+212,2023-11-13,2023,11,2023-11,Anita Desai,Pune,West,Maharashtra,USB Hub,Accessories,2,900,0,1800,Delivered
+223,2023-11-16,2023,11,2023-11,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smart Watch,Electronics,3,15000,0,45000,Pending
+215,2023-11-17,2023,11,2023-11,Kavita Reddy,Lucknow,North,Uttar Pradesh,Tablet Plus,Electronics,2,38000,5,72200,Delivered
+236,2023-11-17,2023,11,2023-11,Vikram Rao,Hyderabad,South,Telangana,Monitor 24inch,Electronics,5,18000,0,90000,Delivered
+220,2023-11-19,2023,11,2023-11,Kavita Reddy,Lucknow,North,Uttar Pradesh,Monitor 24inch,Electronics,5,18000,0,90000,Delivered
+222,2023-11-20,2023,11,2023-11,Arjun Mehta,Surat,West,Gujarat,Laptop Bag,Accessories,1,1800,10,1620,Delivered
+231,2023-11-21,2023,11,2023-11,Priya Singh,Delhi,North,Delhi,Webcam HD,Accessories,1,3500,0,3500,Cancelled
+230,2023-11-24,2023,11,2023-11,Meena Joshi,Jaipur,North,Rajasthan,Laptop Bag,Accessories,3,1800,15,4590,Delivered
+228,2023-11-25,2023,11,2023-11,Amit Verma,Chennai,South,Tamil Nadu,Wireless Keyboard,Accessories,2,2500,10,4500,Cancelled
+216,2023-11-25,2023,11,2023-11,Ravi Kumar,Kolkata,East,West Bengal,Hard Disk 1TB,Storage,1,4500,5,4275,Delivered
+276,2023-11-27,2023,11,2023-11,Nikhil Gupta,Chandigarh,North,Punjab,Optical Mouse,Accessories,3,1200,0,3600,Delivered
+249,2023-11-27,2023,11,2023-11,Anita Desai,Pune,West,Maharashtra,Laptop Bag,Accessories,2,1800,10,3240,Delivered
+251,2023-11-27,2023,11,2023-11,Arjun Mehta,Surat,West,Gujarat,Gaming Mouse,Accessories,1,2200,0,2200,Delivered
+252,2023-11-27,2023,11,2023-11,Nikhil Gupta,Chandigarh,North,Punjab,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+269,2023-11-28,2023,11,2023-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Hard Disk 1TB,Storage,4,4500,15,15300,Cancelled
+267,2023-11-28,2023,11,2023-11,Anita Desai,Pune,West,Maharashtra,Laptop Bag,Accessories,2,1800,10,3240,Delivered
+247,2023-11-29,2023,11,2023-11,Amit Verma,Chennai,South,Tamil Nadu,Laptop Bag,Accessories,5,1800,0,9000,Pending
+261,2023-11-30,2023,11,2023-11,Meena Joshi,Jaipur,North,Rajasthan,Headphones Pro,Audio,5,8500,5,40375,Delivered
+268,2023-11-30,2023,11,2023-11,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,3,8500,15,21675,Delivered
+266,2023-11-30,2023,11,2023-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,1,28000,5,26600,Delivered
+253,2023-11-30,2023,11,2023-11,Rahul Sharma,Mumbai,West,Maharashtra,Tablet Plus,Electronics,4,38000,10,136800,Delivered
+277,2023-12-01,2023,12,2023-12,Amit Verma,Chennai,South,Tamil Nadu,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+275,2023-12-02,2023,12,2023-12,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Pen Drive 64GB,Storage,3,800,0,2400,Delivered
+259,2023-12-05,2023,12,2023-12,Kavita Reddy,Lucknow,North,Uttar Pradesh,Tablet Plus,Electronics,1,38000,0,38000,Delivered
+263,2023-12-07,2023,12,2023-12,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,2,15000,5,28500,Pending
+244,2023-12-09,2023,12,2023-12,Sanjay Tiwari,Nagpur,Central,Maharashtra,Hard Disk 1TB,Storage,3,4500,0,13500,Delivered
+264,2023-12-10,2023,12,2023-12,Suresh Nair,Bangalore,South,Karnataka,USB Hub,Accessories,1,900,0,900,Delivered
+257,2023-12-10,2023,12,2023-12,Rahul Sharma,Mumbai,West,Maharashtra,Laptop Pro,Electronics,4,65000,5,247000,Delivered
+256,2023-12-11,2023,12,2023-12,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Hard Disk 1TB,Storage,5,4500,0,22500,Delivered
+242,2023-12-11,2023,12,2023-12,Ravi Kumar,Kolkata,East,West Bengal,Laptop Pro,Electronics,3,65000,0,195000,Delivered
+265,2023-12-12,2023,12,2023-12,Ravi Kumar,Kolkata,East,West Bengal,Monitor 24inch,Electronics,2,18000,15,30600,Delivered
+254,2023-12-15,2023,12,2023-12,Meena Joshi,Jaipur,North,Rajasthan,Webcam HD,Accessories,3,3500,10,9450,Delivered
+270,2023-12-15,2023,12,2023-12,Kavita Reddy,Lucknow,North,Uttar Pradesh,Optical Mouse,Accessories,3,1200,0,3600,Delivered
+260,2023-12-16,2023,12,2023-12,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,3,8500,5,24225,Delivered
+274,2023-12-16,2023,12,2023-12,Kavita Reddy,Lucknow,North,Uttar Pradesh,Hard Disk 1TB,Storage,5,4500,0,22500,Pending
+241,2023-12-16,2023,12,2023-12,Sanjay Tiwari,Nagpur,Central,Maharashtra,USB Hub,Accessories,1,900,5,855,Delivered
+239,2023-12-18,2023,12,2023-12,Amit Verma,Chennai,South,Tamil Nadu,USB Hub,Accessories,4,900,0,3600,Pending
+245,2023-12-18,2023,12,2023-12,Priya Singh,Delhi,North,Delhi,Gaming Mouse,Accessories,4,2200,0,8800,Delivered
+243,2023-12-18,2023,12,2023-12,Sneha Patel,Ahmedabad,West,Gujarat,Gaming Mouse,Accessories,3,2200,0,6600,Delivered
+255,2023-12-20,2023,12,2023-12,Vikram Rao,Hyderabad,South,Telangana,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+240,2023-12-20,2023,12,2023-12,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,4,8500,10,30600,Delivered
+272,2023-12-21,2023,12,2023-12,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Headphones Pro,Audio,3,8500,0,25500,Delivered
+273,2023-12-21,2023,12,2023-12,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,4,1800,10,6480,Pending
+250,2023-12-22,2023,12,2023-12,Amit Verma,Chennai,South,Tamil Nadu,Tablet Plus,Electronics,5,38000,0,190000,Delivered
+246,2023-12-22,2023,12,2023-12,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+248,2023-12-23,2023,12,2023-12,Vikram Rao,Hyderabad,South,Telangana,Wireless Keyboard,Accessories,5,2500,0,12500,Pending
+262,2023-12-24,2023,12,2023-12,Priya Singh,Delhi,North,Delhi,Gaming Mouse,Accessories,5,2200,15,9350,Delivered
+271,2023-12-24,2023,12,2023-12,Amit Verma,Chennai,South,Tamil Nadu,Hard Disk 1TB,Storage,4,4500,0,18000,Delivered
+258,2023-12-25,2023,12,2023-12,Meena Joshi,Jaipur,North,Rajasthan,Pen Drive 64GB,Storage,4,800,0,3200,Delivered
+285,2023-12-27,2023,12,2023-12,Sneha Patel,Ahmedabad,West,Gujarat,USB Hub,Accessories,5,900,0,4500,Delivered
+289,2023-12-28,2023,12,2023-12,Anita Desai,Pune,West,Maharashtra,Smartphone X,Electronics,4,28000,15,95200,Delivered
+295,2023-12-29,2023,12,2023-12,Anita Desai,Pune,West,Maharashtra,Wireless Keyboard,Accessories,3,2500,0,7500,Delivered
+283,2023-12-30,2023,12,2023-12,Vikram Rao,Hyderabad,South,Telangana,Smartphone X,Electronics,3,28000,5,79800,Delivered
+291,2023-12-30,2023,12,2023-12,Suresh Nair,Bangalore,South,Karnataka,Pen Drive 64GB,Storage,4,800,0,3200,Delivered
+297,2023-12-30,2023,12,2023-12,Anita Desai,Pune,West,Maharashtra,Pen Drive 64GB,Storage,2,800,0,1600,Delivered
+287,2023-12-31,2023,12,2023-12,Rahul Sharma,Mumbai,West,Maharashtra,Webcam HD,Accessories,4,3500,0,14000,Delivered
+280,2023-12-31,2023,12,2023-12,Kavita Reddy,Lucknow,North,Uttar Pradesh,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+293,2024-01-03,2024,1,2024-01,Anita Desai,Pune,West,Maharashtra,Smartphone X,Electronics,4,28000,0,112000,Delivered
+282,2024-01-04,2024,1,2024-01,Meena Joshi,Jaipur,North,Rajasthan,Speaker Bluetooth,Audio,4,5500,5,20900,Delivered
+286,2024-01-05,2024,1,2024-01,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,2,1800,0,3600,Delivered
+278,2024-01-08,2024,1,2024-01,Priya Singh,Delhi,North,Delhi,Pen Drive 64GB,Storage,5,800,0,4000,Delivered
+281,2024-01-10,2024,1,2024-01,Kavita Reddy,Lucknow,North,Uttar Pradesh,Laptop Pro,Electronics,1,65000,0,65000,Delivered
+301,2024-01-10,2024,1,2024-01,Anita Desai,Pune,West,Maharashtra,Gaming Mouse,Accessories,3,2200,0,6600,Delivered
+303,2024-01-10,2024,1,2024-01,Vikram Rao,Hyderabad,South,Telangana,Smartphone X,Electronics,3,28000,5,79800,Delivered
+305,2024-01-12,2024,1,2024-01,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smartphone X,Electronics,5,28000,10,126000,Delivered
+307,2024-01-12,2024,1,2024-01,Sneha Patel,Ahmedabad,West,Gujarat,Monitor 24inch,Electronics,5,18000,5,85500,Delivered
+302,2024-01-14,2024,1,2024-01,Meena Joshi,Jaipur,North,Rajasthan,Hard Disk 1TB,Storage,3,4500,0,13500,Delivered
+290,2024-01-14,2024,1,2024-01,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,1,15000,0,15000,Delivered
+300,2024-01-16,2024,1,2024-01,Kavita Reddy,Lucknow,North,Uttar Pradesh,Webcam HD,Accessories,5,3500,15,14875,Cancelled
+304,2024-01-16,2024,1,2024-01,Anita Desai,Pune,West,Maharashtra,Gaming Mouse,Accessories,3,2200,0,6600,Pending
+284,2024-01-17,2024,1,2024-01,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,4,5500,10,19800,Delivered
+308,2024-01-18,2024,1,2024-01,Rahul Sharma,Mumbai,West,Maharashtra,Webcam HD,Accessories,1,3500,0,3500,Delivered
+309,2024-01-18,2024,1,2024-01,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,1,38000,0,38000,Delivered
+279,2024-01-19,2024,1,2024-01,Anita Desai,Pune,West,Maharashtra,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+298,2024-01-20,2024,1,2024-01,Sneha Patel,Ahmedabad,West,Gujarat,Tablet Plus,Electronics,5,38000,0,190000,Delivered
+299,2024-01-20,2024,1,2024-01,Priya Singh,Delhi,North,Delhi,Tablet Plus,Electronics,4,38000,5,144400,Delivered
+306,2024-01-21,2024,1,2024-01,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,1,8500,5,8075,Delivered
+292,2024-01-22,2024,1,2024-01,Anita Desai,Pune,West,Maharashtra,Tablet Plus,Electronics,5,38000,5,180500,Delivered
+288,2024-01-22,2024,1,2024-01,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,5,2500,10,11250,Delivered
+294,2024-01-23,2024,1,2024-01,Suresh Nair,Bangalore,South,Karnataka,Headphones Pro,Audio,1,8500,5,8075,Delivered
+296,2024-01-24,2024,1,2024-01,Priya Singh,Delhi,North,Delhi,Headphones Pro,Audio,5,8500,0,42500,Delivered
+316,2024-01-28,2024,1,2024-01,Suresh Nair,Bangalore,South,Karnataka,Tablet Plus,Electronics,5,38000,15,161500,Delivered
+314,2024-01-28,2024,1,2024-01,Sanjay Tiwari,Nagpur,Central,Maharashtra,Speaker Bluetooth,Audio,2,5500,0,11000,Delivered
+320,2024-02-02,2024,2,2024-02,Sneha Patel,Ahmedabad,West,Gujarat,Monitor 24inch,Electronics,4,18000,0,72000,Cancelled
+319,2024-02-04,2024,2,2024-02,Vikram Rao,Hyderabad,South,Telangana,Monitor 24inch,Electronics,1,18000,0,18000,Delivered
+312,2024-02-05,2024,2,2024-02,Nikhil Gupta,Chandigarh,North,Punjab,Hard Disk 1TB,Storage,3,4500,0,13500,Delivered
+310,2024-02-06,2024,2,2024-02,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,5,8500,0,42500,Delivered
+327,2024-02-06,2024,2,2024-02,Nikhil Gupta,Chandigarh,North,Punjab,Laptop Bag,Accessories,4,1800,0,7200,Delivered
+323,2024-02-07,2024,2,2024-02,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,2,5500,10,9900,Delivered
+321,2024-02-11,2024,2,2024-02,Amit Verma,Chennai,South,Tamil Nadu,Smartphone X,Electronics,3,28000,0,84000,Delivered
+326,2024-02-12,2024,2,2024-02,Deepa Iyer,Kochi,South,Kerala,Laptop Bag,Accessories,4,1800,0,7200,Delivered
+325,2024-02-14,2024,2,2024-02,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,2,18000,5,34200,Delivered
+315,2024-02-15,2024,2,2024-02,Amit Verma,Chennai,South,Tamil Nadu,Smart Watch,Electronics,3,15000,0,45000,Delivered
+318,2024-02-15,2024,2,2024-02,Deepa Iyer,Kochi,South,Kerala,Hard Disk 1TB,Storage,5,4500,0,22500,Delivered
+311,2024-02-16,2024,2,2024-02,Ravi Kumar,Kolkata,East,West Bengal,USB Hub,Accessories,4,900,0,3600,Delivered
+317,2024-02-16,2024,2,2024-02,Suresh Nair,Bangalore,South,Karnataka,Hard Disk 1TB,Storage,3,4500,0,13500,Delivered
+322,2024-02-16,2024,2,2024-02,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Pen Drive 64GB,Storage,5,800,0,4000,Delivered
+313,2024-02-18,2024,2,2024-02,Arjun Mehta,Surat,West,Gujarat,USB Hub,Accessories,3,900,0,2700,Pending
+324,2024-02-18,2024,2,2024-02,Amit Verma,Chennai,South,Tamil Nadu,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+328,2024-02-19,2024,2,2024-02,Kavita Reddy,Lucknow,North,Uttar Pradesh,Webcam HD,Accessories,4,3500,0,14000,Delivered
+329,2024-02-20,2024,2,2024-02,Vikram Rao,Hyderabad,South,Telangana,USB Hub,Accessories,2,900,0,1800,Delivered
+344,2024-02-25,2024,2,2024-02,Deepa Iyer,Kochi,South,Kerala,Tablet Plus,Electronics,3,38000,5,108300,Delivered
+338,2024-02-25,2024,2,2024-02,Deepa Iyer,Kochi,South,Kerala,Webcam HD,Accessories,4,3500,10,12600,Pending
+335,2024-02-25,2024,2,2024-02,Suresh Nair,Bangalore,South,Karnataka,Smartphone X,Electronics,3,28000,0,84000,Delivered
+336,2024-02-29,2024,2,2024-02,Priya Singh,Delhi,North,Delhi,Gaming Mouse,Accessories,3,2200,0,6600,Delivered
+332,2024-02-29,2024,2,2024-02,Amit Verma,Chennai,South,Tamil Nadu,Optical Mouse,Accessories,4,1200,10,4320,Pending
+331,2024-03-05,2024,3,2024-03,Deepa Iyer,Kochi,South,Kerala,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+341,2024-03-09,2024,3,2024-03,Ravi Kumar,Kolkata,East,West Bengal,Smartphone X,Electronics,1,28000,0,28000,Delivered
+334,2024-03-12,2024,3,2024-03,Rahul Sharma,Mumbai,West,Maharashtra,USB Hub,Accessories,1,900,5,855,Delivered
+343,2024-03-12,2024,3,2024-03,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,1,8500,15,7225,Delivered
+330,2024-03-13,2024,3,2024-03,Rahul Sharma,Mumbai,West,Maharashtra,Hard Disk 1TB,Storage,4,4500,0,18000,Pending
+346,2024-03-13,2024,3,2024-03,Vikram Rao,Hyderabad,South,Telangana,Monitor 24inch,Electronics,1,18000,10,16200,Delivered
+339,2024-03-13,2024,3,2024-03,Rahul Sharma,Mumbai,West,Maharashtra,Optical Mouse,Accessories,2,1200,0,2400,Pending
+345,2024-03-17,2024,3,2024-03,Sneha Patel,Ahmedabad,West,Gujarat,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+340,2024-03-20,2024,3,2024-03,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,4,8500,0,34000,Delivered
+337,2024-03-22,2024,3,2024-03,Sanjay Tiwari,Nagpur,Central,Maharashtra,Gaming Mouse,Accessories,4,2200,15,7480,Delivered
+342,2024-03-22,2024,3,2024-03,Kavita Reddy,Lucknow,North,Uttar Pradesh,Webcam HD,Accessories,1,3500,0,3500,Pending
+347,2024-03-23,2024,3,2024-03,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,1,8500,5,8075,Delivered
+333,2024-03-24,2024,3,2024-03,Priya Singh,Delhi,North,Delhi,Smart Watch,Electronics,2,15000,5,28500,Delivered
+348,2024-03-26,2024,3,2024-03,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,3,18000,15,45900,Delivered
+371,2024-03-26,2024,3,2024-03,Arjun Mehta,Surat,West,Gujarat,Optical Mouse,Accessories,2,1200,0,2400,Delivered
+350,2024-03-27,2024,3,2024-03,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,3,5500,0,16500,Delivered
+353,2024-03-27,2024,3,2024-03,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,3,65000,0,195000,Delivered
+355,2024-03-27,2024,3,2024-03,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Headphones Pro,Audio,4,8500,0,34000,Delivered
+352,2024-03-28,2024,3,2024-03,Meena Joshi,Jaipur,North,Rajasthan,Hard Disk 1TB,Storage,2,4500,0,9000,Delivered
+367,2024-03-28,2024,3,2024-03,Nikhil Gupta,Chandigarh,North,Punjab,Webcam HD,Accessories,1,3500,0,3500,Delivered
+372,2024-03-29,2024,3,2024-03,Meena Joshi,Jaipur,North,Rajasthan,Headphones Pro,Audio,4,8500,10,30600,Delivered
+374,2024-03-30,2024,3,2024-03,Sanjay Tiwari,Nagpur,Central,Maharashtra,Webcam HD,Accessories,2,3500,0,7000,Pending
+358,2024-03-31,2024,3,2024-03,Meena Joshi,Jaipur,North,Rajasthan,Smart Watch,Electronics,4,15000,0,60000,Delivered
+361,2024-04-05,2024,4,2024-04,Ravi Kumar,Kolkata,East,West Bengal,Monitor 24inch,Electronics,1,18000,0,18000,Delivered
+369,2024-04-06,2024,4,2024-04,Amit Verma,Chennai,South,Tamil Nadu,Hard Disk 1TB,Storage,4,4500,0,18000,Delivered
+370,2024-04-06,2024,4,2024-04,Priya Singh,Delhi,North,Delhi,Speaker Bluetooth,Audio,2,5500,10,9900,Delivered
+362,2024-04-08,2024,4,2024-04,Ravi Kumar,Kolkata,East,West Bengal,Webcam HD,Accessories,5,3500,15,14875,Delivered
+351,2024-04-09,2024,4,2024-04,Anita Desai,Pune,West,Maharashtra,Gaming Mouse,Accessories,2,2200,15,3740,Cancelled
+354,2024-04-11,2024,4,2024-04,Sanjay Tiwari,Nagpur,Central,Maharashtra,Laptop Pro,Electronics,3,65000,0,195000,Delivered
+365,2024-04-11,2024,4,2024-04,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,4,28000,0,112000,Pending
+368,2024-04-13,2024,4,2024-04,Arjun Mehta,Surat,West,Gujarat,Monitor 24inch,Electronics,3,18000,5,51300,Delivered
+373,2024-04-14,2024,4,2024-04,Ravi Kumar,Kolkata,East,West Bengal,Pen Drive 64GB,Storage,4,800,0,3200,Delivered
+364,2024-04-15,2024,4,2024-04,Anita Desai,Pune,West,Maharashtra,Speaker Bluetooth,Audio,4,5500,0,22000,Cancelled
+349,2024-04-16,2024,4,2024-04,Priya Singh,Delhi,North,Delhi,Monitor 24inch,Electronics,2,18000,15,30600,Delivered
+363,2024-04-18,2024,4,2024-04,Meena Joshi,Jaipur,North,Rajasthan,Monitor 24inch,Electronics,4,18000,0,72000,Pending
+359,2024-04-20,2024,4,2024-04,Meena Joshi,Jaipur,North,Rajasthan,Monitor 24inch,Electronics,5,18000,0,90000,Delivered
+375,2024-04-20,2024,4,2024-04,Meena Joshi,Jaipur,North,Rajasthan,Tablet Plus,Electronics,4,38000,0,152000,Delivered
+360,2024-04-21,2024,4,2024-04,Suresh Nair,Bangalore,South,Karnataka,Smartphone X,Electronics,4,28000,10,100800,Delivered
+356,2024-04-22,2024,4,2024-04,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,3,1200,0,3600,Delivered
+366,2024-04-22,2024,4,2024-04,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,1,38000,0,38000,Delivered
+357,2024-04-23,2024,4,2024-04,Ravi Kumar,Kolkata,East,West Bengal,Smartphone X,Electronics,3,28000,5,79800,Delivered
+392,2024-04-26,2024,4,2024-04,Rahul Sharma,Mumbai,West,Maharashtra,Gaming Mouse,Accessories,1,2200,0,2200,Pending
+381,2024-04-27,2024,4,2024-04,Vikram Rao,Hyderabad,South,Telangana,Tablet Plus,Electronics,5,38000,0,190000,Delivered
+396,2024-04-27,2024,4,2024-04,Arjun Mehta,Surat,West,Gujarat,USB Hub,Accessories,3,900,5,2565,Delivered
+384,2024-04-29,2024,4,2024-04,Meena Joshi,Jaipur,North,Rajasthan,Webcam HD,Accessories,5,3500,0,17500,Pending
+393,2024-05-01,2024,5,2024-05,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,3,5500,15,14025,Delivered
+378,2024-05-02,2024,5,2024-05,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,3,38000,10,102600,Delivered
+387,2024-05-02,2024,5,2024-05,Amit Verma,Chennai,South,Tamil Nadu,Tablet Plus,Electronics,3,38000,15,96900,Delivered
+395,2024-05-02,2024,5,2024-05,Ravi Kumar,Kolkata,East,West Bengal,Hard Disk 1TB,Storage,3,4500,5,12825,Pending
+388,2024-05-03,2024,5,2024-05,Vikram Rao,Hyderabad,South,Telangana,Smart Watch,Electronics,3,15000,0,45000,Delivered
+389,2024-05-04,2024,5,2024-05,Vikram Rao,Hyderabad,South,Telangana,Optical Mouse,Accessories,2,1200,15,2040,Delivered
+383,2024-05-05,2024,5,2024-05,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+398,2024-05-05,2024,5,2024-05,Kavita Reddy,Lucknow,North,Uttar Pradesh,Tablet Plus,Electronics,3,38000,15,96900,Delivered
+382,2024-05-08,2024,5,2024-05,Deepa Iyer,Kochi,South,Kerala,Pen Drive 64GB,Storage,4,800,10,2880,Delivered
+380,2024-05-09,2024,5,2024-05,Anita Desai,Pune,West,Maharashtra,Headphones Pro,Audio,5,8500,0,42500,Pending
+397,2024-05-09,2024,5,2024-05,Amit Verma,Chennai,South,Tamil Nadu,Webcam HD,Accessories,4,3500,5,13300,Delivered
+386,2024-05-11,2024,5,2024-05,Suresh Nair,Bangalore,South,Karnataka,Headphones Pro,Audio,1,8500,0,8500,Delivered
+376,2024-05-12,2024,5,2024-05,Arjun Mehta,Surat,West,Gujarat,Monitor 24inch,Electronics,1,18000,10,16200,Delivered
+390,2024-05-13,2024,5,2024-05,Priya Singh,Delhi,North,Delhi,Headphones Pro,Audio,2,8500,10,15300,Delivered
+377,2024-05-17,2024,5,2024-05,Ravi Kumar,Kolkata,East,West Bengal,Gaming Mouse,Accessories,2,2200,15,3740,Pending
+385,2024-05-19,2024,5,2024-05,Nikhil Gupta,Chandigarh,North,Punjab,Headphones Pro,Audio,5,8500,0,42500,Cancelled
+399,2024-05-19,2024,5,2024-05,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Monitor 24inch,Electronics,4,18000,0,72000,Delivered
+379,2024-05-20,2024,5,2024-05,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,2,1800,0,3600,Delivered
+391,2024-05-21,2024,5,2024-05,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,5,5500,0,27500,Pending
+394,2024-05-23,2024,5,2024-05,Suresh Nair,Bangalore,South,Karnataka,Speaker Bluetooth,Audio,1,5500,5,5225,Delivered
+425,2024-05-25,2024,5,2024-05,Rahul Sharma,Mumbai,West,Maharashtra,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+409,2024-05-26,2024,5,2024-05,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,1,18000,5,17100,Delivered
+406,2024-05-26,2024,5,2024-05,Sneha Patel,Ahmedabad,West,Gujarat,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+414,2024-05-26,2024,5,2024-05,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,4,8500,10,30600,Delivered
+410,2024-05-27,2024,5,2024-05,Sneha Patel,Ahmedabad,West,Gujarat,Monitor 24inch,Electronics,5,18000,0,90000,Delivered
+400,2024-05-28,2024,5,2024-05,Priya Singh,Delhi,North,Delhi,Monitor 24inch,Electronics,2,18000,5,34200,Delivered
+412,2024-05-28,2024,5,2024-05,Arjun Mehta,Surat,West,Gujarat,Speaker Bluetooth,Audio,1,5500,0,5500,Delivered
+426,2024-05-31,2024,5,2024-05,Suresh Nair,Bangalore,South,Karnataka,Tablet Plus,Electronics,4,38000,15,129200,Delivered
+422,2024-06-01,2024,6,2024-06,Arjun Mehta,Surat,West,Gujarat,Laptop Bag,Accessories,5,1800,10,8100,Delivered
+401,2024-06-03,2024,6,2024-06,Sneha Patel,Ahmedabad,West,Gujarat,Tablet Plus,Electronics,1,38000,0,38000,Pending
+403,2024-06-04,2024,6,2024-06,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Monitor 24inch,Electronics,5,18000,15,76500,Delivered
+416,2024-06-04,2024,6,2024-06,Kavita Reddy,Lucknow,North,Uttar Pradesh,Smart Watch,Electronics,5,15000,0,75000,Pending
+419,2024-06-05,2024,6,2024-06,Kavita Reddy,Lucknow,North,Uttar Pradesh,Optical Mouse,Accessories,4,1200,0,4800,Delivered
+404,2024-06-09,2024,6,2024-06,Amit Verma,Chennai,South,Tamil Nadu,Webcam HD,Accessories,5,3500,5,16625,Pending
+421,2024-06-09,2024,6,2024-06,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Pen Drive 64GB,Storage,1,800,10,720,Delivered
+405,2024-06-10,2024,6,2024-06,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,1,65000,5,61750,Delivered
+415,2024-06-10,2024,6,2024-06,Amit Verma,Chennai,South,Tamil Nadu,Pen Drive 64GB,Storage,3,800,5,2280,Delivered
+407,2024-06-11,2024,6,2024-06,Meena Joshi,Jaipur,North,Rajasthan,Speaker Bluetooth,Audio,4,5500,0,22000,Delivered
+418,2024-06-11,2024,6,2024-06,Kavita Reddy,Lucknow,North,Uttar Pradesh,Monitor 24inch,Electronics,5,18000,10,81000,Delivered
+423,2024-06-14,2024,6,2024-06,Kavita Reddy,Lucknow,North,Uttar Pradesh,Webcam HD,Accessories,2,3500,10,6300,Delivered
+408,2024-06-17,2024,6,2024-06,Priya Singh,Delhi,North,Delhi,USB Hub,Accessories,2,900,0,1800,Delivered
+417,2024-06-17,2024,6,2024-06,Anita Desai,Pune,West,Maharashtra,Tablet Plus,Electronics,4,38000,10,136800,Pending
+427,2024-06-17,2024,6,2024-06,Nikhil Gupta,Chandigarh,North,Punjab,Speaker Bluetooth,Audio,4,5500,15,18700,Delivered
+413,2024-06-18,2024,6,2024-06,Nikhil Gupta,Chandigarh,North,Punjab,Monitor 24inch,Electronics,5,18000,0,90000,Delivered
+420,2024-06-19,2024,6,2024-06,Priya Singh,Delhi,North,Delhi,USB Hub,Accessories,5,900,0,4500,Pending
+411,2024-06-20,2024,6,2024-06,Meena Joshi,Jaipur,North,Rajasthan,Laptop Bag,Accessories,5,1800,0,9000,Cancelled
+424,2024-06-20,2024,6,2024-06,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,4,2200,0,8800,Delivered
+402,2024-06-21,2024,6,2024-06,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Speaker Bluetooth,Audio,4,5500,0,22000,Pending
+444,2024-06-25,2024,6,2024-06,Ravi Kumar,Kolkata,East,West Bengal,Monitor 24inch,Electronics,3,18000,15,45900,Pending
+436,2024-06-26,2024,6,2024-06,Ravi Kumar,Kolkata,East,West Bengal,Laptop Pro,Electronics,3,65000,15,165750,Delivered
+434,2024-06-27,2024,6,2024-06,Nikhil Gupta,Chandigarh,North,Punjab,Pen Drive 64GB,Storage,3,800,0,2400,Delivered
+443,2024-06-30,2024,6,2024-06,Sanjay Tiwari,Nagpur,Central,Maharashtra,Webcam HD,Accessories,4,3500,15,11900,Delivered
+432,2024-06-30,2024,6,2024-06,Ravi Kumar,Kolkata,East,West Bengal,Laptop Bag,Accessories,3,1800,15,4590,Delivered
+431,2024-07-01,2024,7,2024-07,Sneha Patel,Ahmedabad,West,Gujarat,Optical Mouse,Accessories,5,1200,0,6000,Pending
+439,2024-07-01,2024,7,2024-07,Priya Singh,Delhi,North,Delhi,Speaker Bluetooth,Audio,5,5500,0,27500,Delivered
+440,2024-07-01,2024,7,2024-07,Sanjay Tiwari,Nagpur,Central,Maharashtra,Headphones Pro,Audio,2,8500,15,14450,Delivered
+446,2024-07-07,2024,7,2024-07,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smart Watch,Electronics,1,15000,0,15000,Pending
+430,2024-07-09,2024,7,2024-07,Anita Desai,Pune,West,Maharashtra,Hard Disk 1TB,Storage,3,4500,10,12150,Delivered
+437,2024-07-09,2024,7,2024-07,Meena Joshi,Jaipur,North,Rajasthan,Hard Disk 1TB,Storage,3,4500,15,11475,Delivered
+429,2024-07-11,2024,7,2024-07,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,2,18000,5,34200,Delivered
+433,2024-07-11,2024,7,2024-07,Meena Joshi,Jaipur,North,Rajasthan,Monitor 24inch,Electronics,4,18000,0,72000,Pending
+445,2024-07-11,2024,7,2024-07,Priya Singh,Delhi,North,Delhi,Hard Disk 1TB,Storage,5,4500,0,22500,Delivered
+442,2024-07-14,2024,7,2024-07,Rahul Sharma,Mumbai,West,Maharashtra,Headphones Pro,Audio,2,8500,5,16150,Pending
+428,2024-07-15,2024,7,2024-07,Vikram Rao,Hyderabad,South,Telangana,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+441,2024-07-15,2024,7,2024-07,Suresh Nair,Bangalore,South,Karnataka,Monitor 24inch,Electronics,4,18000,0,72000,Delivered
+438,2024-07-16,2024,7,2024-07,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Headphones Pro,Audio,3,8500,10,22950,Delivered
+435,2024-07-18,2024,7,2024-07,Vikram Rao,Hyderabad,South,Telangana,USB Hub,Accessories,4,900,0,3600,Pending
+448,2024-07-24,2024,7,2024-07,Sanjay Tiwari,Nagpur,Central,Maharashtra,Pen Drive 64GB,Storage,3,800,0,2400,Delivered
+460,2024-07-27,2024,7,2024-07,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smart Watch,Electronics,3,15000,15,38250,Delivered
+451,2024-07-29,2024,7,2024-07,Ravi Kumar,Kolkata,East,West Bengal,Wireless Keyboard,Accessories,1,2500,0,2500,Delivered
+461,2024-07-31,2024,7,2024-07,Ravi Kumar,Kolkata,East,West Bengal,Monitor 24inch,Electronics,5,18000,0,90000,Cancelled
+458,2024-07-31,2024,7,2024-07,Ravi Kumar,Kolkata,East,West Bengal,Hard Disk 1TB,Storage,3,4500,15,11475,Delivered
+456,2024-07-31,2024,7,2024-07,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Pro,Electronics,3,65000,5,185250,Delivered
+454,2024-08-03,2024,8,2024-08,Sanjay Tiwari,Nagpur,Central,Maharashtra,USB Hub,Accessories,4,900,10,3240,Delivered
+459,2024-08-05,2024,8,2024-08,Priya Singh,Delhi,North,Delhi,Webcam HD,Accessories,3,3500,0,10500,Delivered
+449,2024-08-07,2024,8,2024-08,Kavita Reddy,Lucknow,North,Uttar Pradesh,Smartphone X,Electronics,3,28000,0,84000,Cancelled
+455,2024-08-08,2024,8,2024-08,Arjun Mehta,Surat,West,Gujarat,Smartphone X,Electronics,2,28000,0,56000,Delivered
+462,2024-08-12,2024,8,2024-08,Meena Joshi,Jaipur,North,Rajasthan,Tablet Plus,Electronics,4,38000,15,129200,Delivered
+453,2024-08-12,2024,8,2024-08,Ravi Kumar,Kolkata,East,West Bengal,Speaker Bluetooth,Audio,2,5500,0,11000,Pending
+452,2024-08-16,2024,8,2024-08,Arjun Mehta,Surat,West,Gujarat,Optical Mouse,Accessories,2,1200,0,2400,Delivered
+457,2024-08-16,2024,8,2024-08,Ravi Kumar,Kolkata,East,West Bengal,Monitor 24inch,Electronics,3,18000,10,48600,Delivered
+464,2024-08-17,2024,8,2024-08,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,2,1800,15,3060,Delivered
+447,2024-08-18,2024,8,2024-08,Sanjay Tiwari,Nagpur,Central,Maharashtra,Smart Watch,Electronics,1,15000,5,14250,Delivered
+463,2024-08-18,2024,8,2024-08,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,4,8500,10,30600,Delivered
+450,2024-08-20,2024,8,2024-08,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,4,8500,0,34000,Delivered
+472,2024-08-24,2024,8,2024-08,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,5,2500,0,12500,Delivered
+476,2024-08-25,2024,8,2024-08,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Smart Watch,Electronics,4,15000,5,57000,Delivered
+483,2024-08-29,2024,8,2024-08,Kavita Reddy,Lucknow,North,Uttar Pradesh,Laptop Bag,Accessories,1,1800,0,1800,Delivered
+471,2024-08-31,2024,8,2024-08,Nikhil Gupta,Chandigarh,North,Punjab,Optical Mouse,Accessories,1,1200,5,1140,Pending
+481,2024-08-31,2024,8,2024-08,Sneha Patel,Ahmedabad,West,Gujarat,Webcam HD,Accessories,3,3500,0,10500,Delivered
+479,2024-09-01,2024,9,2024-09,Sneha Patel,Ahmedabad,West,Gujarat,Gaming Mouse,Accessories,1,2200,0,2200,Delivered
+467,2024-09-02,2024,9,2024-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Headphones Pro,Audio,2,8500,0,17000,Pending
+465,2024-09-03,2024,9,2024-09,Vikram Rao,Hyderabad,South,Telangana,Webcam HD,Accessories,5,3500,15,14875,Delivered
+480,2024-09-04,2024,9,2024-09,Deepa Iyer,Kochi,South,Kerala,Headphones Pro,Audio,4,8500,10,30600,Pending
+474,2024-09-05,2024,9,2024-09,Sanjay Tiwari,Nagpur,Central,Maharashtra,Webcam HD,Accessories,1,3500,0,3500,Delivered
+469,2024-09-06,2024,9,2024-09,Sanjay Tiwari,Nagpur,Central,Maharashtra,Headphones Pro,Audio,4,8500,0,34000,Delivered
+478,2024-09-08,2024,9,2024-09,Priya Singh,Delhi,North,Delhi,Tablet Plus,Electronics,5,38000,5,180500,Delivered
+470,2024-09-09,2024,9,2024-09,Suresh Nair,Bangalore,South,Karnataka,Webcam HD,Accessories,5,3500,0,17500,Delivered
+468,2024-09-10,2024,9,2024-09,Meena Joshi,Jaipur,North,Rajasthan,Smartphone X,Electronics,2,28000,15,47600,Delivered
+477,2024-09-12,2024,9,2024-09,Arjun Mehta,Surat,West,Gujarat,Gaming Mouse,Accessories,5,2200,0,11000,Pending
+482,2024-09-17,2024,9,2024-09,Sanjay Tiwari,Nagpur,Central,Maharashtra,Pen Drive 64GB,Storage,1,800,0,800,Delivered
+466,2024-09-20,2024,9,2024-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Smartphone X,Electronics,1,28000,10,25200,Delivered
+473,2024-09-20,2024,9,2024-09,Deepa Iyer,Kochi,South,Kerala,Smartphone X,Electronics,5,28000,0,140000,Delivered
+475,2024-09-20,2024,9,2024-09,Amit Verma,Chennai,South,Tamil Nadu,Laptop Bag,Accessories,4,1800,0,7200,Delivered
+494,2024-09-23,2024,9,2024-09,Ravi Kumar,Kolkata,East,West Bengal,Gaming Mouse,Accessories,2,2200,5,4180,Delivered
+512,2024-09-23,2024,9,2024-09,Meena Joshi,Jaipur,North,Rajasthan,Tablet Plus,Electronics,5,38000,15,161500,Delivered
+504,2024-09-25,2024,9,2024-09,Anita Desai,Pune,West,Maharashtra,Headphones Pro,Audio,4,8500,5,32300,Pending
+511,2024-09-26,2024,9,2024-09,Meena Joshi,Jaipur,North,Rajasthan,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+506,2024-09-26,2024,9,2024-09,Rahul Sharma,Mumbai,West,Maharashtra,Speaker Bluetooth,Audio,2,5500,15,9350,Delivered
+492,2024-09-26,2024,9,2024-09,Vikram Rao,Hyderabad,South,Telangana,Monitor 24inch,Electronics,4,18000,5,68400,Delivered
+500,2024-09-28,2024,9,2024-09,Sanjay Tiwari,Nagpur,Central,Maharashtra,Monitor 24inch,Electronics,3,18000,0,54000,Pending
+498,2024-09-28,2024,9,2024-09,Kavita Reddy,Lucknow,North,Uttar Pradesh,Speaker Bluetooth,Audio,1,5500,0,5500,Pending
+493,2024-09-29,2024,9,2024-09,Amit Verma,Chennai,South,Tamil Nadu,Laptop Bag,Accessories,5,1800,5,8550,Pending
+497,2024-09-30,2024,9,2024-09,Vikram Rao,Hyderabad,South,Telangana,Pen Drive 64GB,Storage,2,800,0,1600,Delivered
+488,2024-10-01,2024,10,2024-10,Arjun Mehta,Surat,West,Gujarat,Gaming Mouse,Accessories,3,2200,0,6600,Pending
+489,2024-10-01,2024,10,2024-10,Arjun Mehta,Surat,West,Gujarat,Headphones Pro,Audio,2,8500,5,16150,Delivered
+502,2024-10-02,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,USB Hub,Accessories,2,900,10,1620,Delivered
+503,2024-10-03,2024,10,2024-10,Suresh Nair,Bangalore,South,Karnataka,Webcam HD,Accessories,5,3500,15,14875,Delivered
+505,2024-10-03,2024,10,2024-10,Deepa Iyer,Kochi,South,Kerala,Webcam HD,Accessories,3,3500,0,10500,Delivered
+508,2024-10-04,2024,10,2024-10,Amit Verma,Chennai,South,Tamil Nadu,Wireless Keyboard,Accessories,3,2500,0,7500,Delivered
+495,2024-10-04,2024,10,2024-10,Suresh Nair,Bangalore,South,Karnataka,Headphones Pro,Audio,5,8500,0,42500,Delivered
+485,2024-10-06,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Pen Drive 64GB,Storage,1,800,5,760,Delivered
+499,2024-10-07,2024,10,2024-10,Kavita Reddy,Lucknow,North,Uttar Pradesh,Pen Drive 64GB,Storage,5,800,0,4000,Delivered
+486,2024-10-08,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Laptop Bag,Accessories,1,1800,0,1800,Cancelled
+487,2024-10-10,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+510,2024-10-12,2024,10,2024-10,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,4,2200,15,7480,Delivered
+490,2024-10-13,2024,10,2024-10,Vikram Rao,Hyderabad,South,Telangana,Speaker Bluetooth,Audio,2,5500,15,9350,Delivered
+491,2024-10-13,2024,10,2024-10,Meena Joshi,Jaipur,North,Rajasthan,Laptop Pro,Electronics,3,65000,15,165750,Delivered
+509,2024-10-13,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Webcam HD,Accessories,5,3500,15,14875,Delivered
+484,2024-10-14,2024,10,2024-10,Rahul Sharma,Mumbai,West,Maharashtra,Webcam HD,Accessories,5,3500,15,14875,Pending
+501,2024-10-14,2024,10,2024-10,Deepa Iyer,Kochi,South,Kerala,Smartphone X,Electronics,4,28000,0,112000,Delivered
+507,2024-10-15,2024,10,2024-10,Vikram Rao,Hyderabad,South,Telangana,Smart Watch,Electronics,5,15000,10,67500,Delivered
+496,2024-10-19,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Monitor 24inch,Electronics,1,18000,5,17100,Delivered
+517,2024-10-22,2024,10,2024-10,Vikram Rao,Hyderabad,South,Telangana,Headphones Pro,Audio,4,8500,0,34000,Delivered
+519,2024-10-25,2024,10,2024-10,Arjun Mehta,Surat,West,Gujarat,USB Hub,Accessories,2,900,0,1800,Delivered
+514,2024-10-26,2024,10,2024-10,Arjun Mehta,Surat,West,Gujarat,Wireless Keyboard,Accessories,1,2500,15,2125,Delivered
+525,2024-10-27,2024,10,2024-10,Rahul Sharma,Mumbai,West,Maharashtra,Hard Disk 1TB,Storage,1,4500,15,3825,Delivered
+527,2024-10-28,2024,10,2024-10,Sanjay Tiwari,Nagpur,Central,Maharashtra,Headphones Pro,Audio,1,8500,0,8500,Pending
+530,2024-10-28,2024,10,2024-10,Amit Verma,Chennai,South,Tamil Nadu,Smart Watch,Electronics,3,15000,0,45000,Delivered
+522,2024-10-29,2024,10,2024-10,Meena Joshi,Jaipur,North,Rajasthan,Speaker Bluetooth,Audio,2,5500,15,9350,Delivered
+520,2024-10-30,2024,10,2024-10,Sneha Patel,Ahmedabad,West,Gujarat,Wireless Keyboard,Accessories,5,2500,10,11250,Pending
+528,2024-10-30,2024,10,2024-10,Deepa Iyer,Kochi,South,Kerala,Smart Watch,Electronics,5,15000,5,71250,Delivered
+531,2024-10-31,2024,10,2024-10,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,4,2200,0,8800,Delivered
+521,2024-11-02,2024,11,2024-11,Ravi Kumar,Kolkata,East,West Bengal,Laptop Bag,Accessories,4,1800,0,7200,Cancelled
+524,2024-11-03,2024,11,2024-11,Rahul Sharma,Mumbai,West,Maharashtra,Smartphone X,Electronics,4,28000,5,106400,Delivered
+513,2024-11-04,2024,11,2024-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Hard Disk 1TB,Storage,1,4500,0,4500,Delivered
+534,2024-11-04,2024,11,2024-11,Deepa Iyer,Kochi,South,Kerala,Monitor 24inch,Electronics,1,18000,0,18000,Delivered
+516,2024-11-06,2024,11,2024-11,Sanjay Tiwari,Nagpur,Central,Maharashtra,Speaker Bluetooth,Audio,4,5500,15,18700,Delivered
+518,2024-11-07,2024,11,2024-11,Ravi Kumar,Kolkata,East,West Bengal,Headphones Pro,Audio,3,8500,0,25500,Pending
+529,2024-11-09,2024,11,2024-11,Priya Singh,Delhi,North,Delhi,Hard Disk 1TB,Storage,3,4500,10,12150,Delivered
+515,2024-11-10,2024,11,2024-11,Vikram Rao,Hyderabad,South,Telangana,Webcam HD,Accessories,3,3500,0,10500,Delivered
+533,2024-11-14,2024,11,2024-11,Suresh Nair,Bangalore,South,Karnataka,Laptop Bag,Accessories,2,1800,15,3060,Delivered
+523,2024-11-18,2024,11,2024-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Gaming Mouse,Accessories,1,2200,15,1870,Delivered
+526,2024-11-18,2024,11,2024-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,USB Hub,Accessories,3,900,10,2430,Cancelled
+532,2024-11-19,2024,11,2024-11,Sneha Patel,Ahmedabad,West,Gujarat,Speaker Bluetooth,Audio,4,5500,15,18700,Delivered
+543,2024-11-23,2024,11,2024-11,Vikram Rao,Hyderabad,South,Telangana,USB Hub,Accessories,1,900,0,900,Delivered
+556,2024-11-24,2024,11,2024-11,Suresh Nair,Bangalore,South,Karnataka,Optical Mouse,Accessories,4,1200,0,4800,Pending
+546,2024-11-26,2024,11,2024-11,Sanjay Tiwari,Nagpur,Central,Maharashtra,Wireless Keyboard,Accessories,5,2500,10,11250,Delivered
+554,2024-11-26,2024,11,2024-11,Deepa Iyer,Kochi,South,Kerala,Wireless Keyboard,Accessories,4,2500,0,10000,Cancelled
+558,2024-11-27,2024,11,2024-11,Rahul Sharma,Mumbai,West,Maharashtra,Pen Drive 64GB,Storage,4,800,15,2720,Delivered
+549,2024-11-28,2024,11,2024-11,Nikhil Gupta,Chandigarh,North,Punjab,Smartphone X,Electronics,3,28000,0,84000,Delivered
+547,2024-11-29,2024,11,2024-11,Amit Verma,Chennai,South,Tamil Nadu,Tablet Plus,Electronics,3,38000,0,114000,Delivered
+553,2024-11-30,2024,11,2024-11,Pooja Mishra,Bhopal,Central,Madhya Pradesh,Gaming Mouse,Accessories,5,2200,0,11000,Delivered
+552,2024-12-01,2024,12,2024-12,Nikhil Gupta,Chandigarh,North,Punjab,Gaming Mouse,Accessories,3,2200,5,6270,Delivered
+540,2024-12-02,2024,12,2024-12,Arjun Mehta,Surat,West,Gujarat,Tablet Plus,Electronics,4,38000,0,152000,Delivered
+535,2024-12-03,2024,12,2024-12,Anita Desai,Pune,West,Maharashtra,Speaker Bluetooth,Audio,5,5500,10,24750,Cancelled
+539,2024-12-03,2024,12,2024-12,Priya Singh,Delhi,North,Delhi,Smartphone X,Electronics,3,28000,0,84000,Delivered
+548,2024-12-04,2024,12,2024-12,Priya Singh,Delhi,North,Delhi,Tablet Plus,Electronics,4,38000,0,152000,Delivered
+550,2024-12-05,2024,12,2024-12,Meena Joshi,Jaipur,North,Rajasthan,Speaker Bluetooth,Audio,5,5500,0,27500,Delivered
+542,2024-12-05,2024,12,2024-12,Amit Verma,Chennai,South,Tamil Nadu,Smartphone X,Electronics,2,28000,5,53200,Delivered
+561,2024-12-05,2024,12,2024-12,Suresh Nair,Bangalore,South,Karnataka,Laptop Bag,Accessories,4,1800,0,7200,Cancelled
+536,2024-12-06,2024,12,2024-12,Anita Desai,Pune,West,Maharashtra,Laptop Pro,Electronics,3,65000,5,185250,Delivered
+562,2024-12-07,2024,12,2024-12,Meena Joshi,Jaipur,North,Rajasthan,Speaker Bluetooth,Audio,4,5500,10,19800,Pending
+537,2024-12-12,2024,12,2024-12,Vikram Rao,Hyderabad,South,Telangana,USB Hub,Accessories,4,900,0,3600,Delivered
+559,2024-12-12,2024,12,2024-12,Ravi Kumar,Kolkata,East,West Bengal,Gaming Mouse,Accessories,1,2200,5,2090,Delivered
+560,2024-12-12,2024,12,2024-12,Arjun Mehta,Surat,West,Gujarat,Optical Mouse,Accessories,2,1200,0,2400,Delivered
+557,2024-12-12,2024,12,2024-12,Sneha Patel,Ahmedabad,West,Gujarat,Speaker Bluetooth,Audio,5,5500,0,27500,Delivered
+545,2024-12-14,2024,12,2024-12,Ravi Kumar,Kolkata,East,West Bengal,USB Hub,Accessories,4,900,0,3600,Pending
+541,2024-12-15,2024,12,2024-12,Rahul Sharma,Mumbai,West,Maharashtra,Optical Mouse,Accessories,4,1200,0,4800,Delivered
+538,2024-12-16,2024,12,2024-12,Suresh Nair,Bangalore,South,Karnataka,Smartphone X,Electronics,5,28000,0,140000,Delivered
+555,2024-12-16,2024,12,2024-12,Anita Desai,Pune,West,Maharashtra,Optical Mouse,Accessories,4,1200,10,4320,Delivered
+551,2024-12-17,2024,12,2024-12,Ravi Kumar,Kolkata,East,West Bengal,Laptop Pro,Electronics,4,65000,0,260000,Delivered
+544,2024-12-18,2024,12,2024-12,Priya Singh,Delhi,North,Delhi,Speaker Bluetooth,Audio,5,5500,0,27500,Delivered
