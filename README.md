@@ -162,7 +162,7 @@ Sales-Analytics-Dashboard/
 
 ## Harikesh Prajapati
 
-Aspiring Data Analyst | Power BI Developer | Machine Learning Enthusiast
+Aspiring Data Analyst | Power BI Developer | Machine Learning 
 
 ### Skills
 - SQL
